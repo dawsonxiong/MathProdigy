@@ -4,10 +4,10 @@
 Welcome to Math Prodigy! The premier quick-thinking game for students to practice their math skills, or for ex-students to have fun. Whichever you are, prepare to dive into an immersive world where you can let go of all of your stress - once again, welcome to Math Prodigy.
 
 _What our modern UI title page looks like_
-![alt text](https://github.com/dawsonxiong/Math-Prodigy/blob/main/images/gameDemo.png)
+![alt text](https://github.com/dawsonxiong/MathProdigy/blob/master/src/main/resources/images/gameDemo.png)
 
 _Some even say that we inspired the games of the 2020s, that is, games such as Tall Man Run:_
-![alt text](https://github.com/dawsonxiong/Math-Prodigy/blob/main/images/tallManRun.png)
+![alt text](https://github.com/dawsonxiong/MathProdigy/blob/master/src/main/resources/images/tallManRun.png)
 
 
 ## Functions
