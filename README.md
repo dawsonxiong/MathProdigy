@@ -25,4 +25,4 @@ Math Prodigy offers core gameplay, characterized by quick-thinking math problems
 ### 4. Purchasing and using skins in the shop
 Math Prodigy stores the coins gained from each game in the users account, and the user may then use their coins to purchase skins in the shop. The skins offered include Spongebob, Peppa Pig, amongst many others. By playing more, it is an end goal to collect every skin in the game. These skins offer no competitive advantage, and are primarily just for aesthetic appeal.
 
-## Thanks for checking out Math Prodigy! Let either Gary or I know if there are any issues: dyxiong@uwaterloo.ca
+## Thanks for checking out Math Prodigy! Please let me know if you have any problems or questions by emailing dyxiong@uwaterloo.ca
