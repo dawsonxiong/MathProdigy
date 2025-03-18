@@ -1,5 +1,4 @@
 # Math Prodigy
-## By Dawson Xiong and Gary Wang
 
 Welcome to Math Prodigy! The premier quick-thinking game for students to practice their math skills, or for ex-students to have fun. Whichever you are, prepare to dive into an immersive world where you can let go of all of your stress - once again, welcome to Math Prodigy.
 
